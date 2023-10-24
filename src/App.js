@@ -12,3 +12,7 @@ function App() {
 }
 
 export default App;
+
+// TODO: Components
+// MUST start with a capital letter
+// MUST return JSX
